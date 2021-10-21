@@ -1,0 +1,110 @@
+body, html {
+    background-color: white;
+    width: 1200px;
+    height: 100%;
+    margin: 0 40px 0 40px;
+}
+#contenedor1 {
+    background-color: black;
+    border-color: black;
+    border-width: 15px;
+    border-style: solid;
+}
+
+#menu {
+    background-color: #27394e;
+    border-color: #27394e;
+    border-width: 15px;
+    border-style: solid;
+    margin-bottom: 9px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.opciones {
+    background-color: #ea584b;
+    border-color: #ea584b;
+    border-width: 15px;
+    border-style: solid; 
+    width: 70px;
+    
+}
+#opciones-largo {
+    width: 800px;
+}
+#foto {
+    background-color: #f0763a;
+    border-color: #f0763a;
+    border-width: 15px;
+    border-style: solid;
+}
+
+#picture {
+    background-color: #ffcc5e;
+    border-color: #ffcc5e;
+    border-width: 15px;
+    border-style: solid;
+}
+#contenedor2 {
+    background-color: black;
+    border-color: black;
+    border-width: 15px;
+    border-style: solid;
+    margin-top: 15px;
+    display: flex;
+}
+#entradas {
+    background-color: #44465e;
+    border-color: #44465e;
+    border-width: 15px;
+    border-style: solid;
+    width: 900px;
+    margin-right: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.articulo {
+    background-color: #1664a4;
+    border-color: #1664a4;
+    border-width: 15px;
+    border-style: solid;
+    width: 400px;
+    margin: 0px 0px 20px 0;
+}
+.articulo-largo {
+    background-color: #6399bb;
+    border-color: #6399bb;
+    border-width: 15px;
+    border-style: solid;
+    width: 900px;
+}
+
+#lateral {
+    background-color: #f94c47;
+    border-color: #f94c47;
+    border-width: 15px;
+    border-style: solid;
+    width: 300px;
+}
+.lado {
+    background-color: #ffe380;
+    border-color: #ffe380;
+    border-width: 15px;
+    border-style: solid;
+    margin: 0px 0 10px 0;
+}
+#contenedor3 {
+    background-color: black;
+    border-color: black;
+    border-width: 15px;
+    border-style: solid;
+    margin-top: 15px;
+}
+
+#pie {
+    background-color: #e4a434;
+    border-color: #e4a434;
+    border-width: 15px;
+    border-style: solid;
+}
